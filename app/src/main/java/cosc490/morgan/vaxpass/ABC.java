@@ -17,7 +17,7 @@ public class ABC extends AppCompatActivity {
     public int getX() {
         return x;
     }
-
+// comment
     public void setX(int x) {
         this.x = x;
     }
